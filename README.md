@@ -10,7 +10,7 @@ Use text-to-speech to announce birthdays
 
 To get started with the project, follow these steps:
 
-<h2>**Clone the Repository:**</h2>
+<h2>Clone the Repository:</h2>
   
 git clone https://github.com/Ankitaghavate/Birthday-Reminder-App.git
 
