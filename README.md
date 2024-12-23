@@ -10,10 +10,6 @@ Use text-to-speech to announce birthdays
 
 To get started with the project, follow these steps:
 
-<h2>Clone the Repository:</h2>
-  
-git clone https://github.com/Ankitaghavate/Birthday-Reminder-App.git
-
 ## Installation
 1. Clone the repository:
    ```bash
@@ -27,8 +23,13 @@ plyer: This is used for desktop notifications.
 ```
 <br>
 pyttsx3: This is used for text-to-speech conversion.
+  ```bash
+  
+      pip install pyttsx3
 
-<h2>Contact</h2>
-For any questions or feedback, please reach out to ghavateankita@gmail.com
+# Contributing Guidelines
+1 Fork the repository and create a new branch.
+2 Make your changes and ensure the code follows PEP 8 style guidelines.
+3 Submit a pull request with a detailed description of your changes.
 
 <h1>Happy coding!💫</h1>
