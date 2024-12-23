@@ -28,8 +28,11 @@ pyttsx3: This is used for text-to-speech conversion.
       pip install pyttsx3
 
 # Contributing Guidelines
+
 1 Fork the repository and create a new branch.
+
 2 Make your changes and ensure the code follows PEP 8 style guidelines.
+
 3 Submit a pull request with a detailed description of your changes.
 
 <h1>Happy coding!💫</h1>
