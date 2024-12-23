@@ -14,10 +14,17 @@ To get started with the project, follow these steps:
   
 git clone https://github.com/Ankitaghavate/Birthday-Reminder-App.git
 
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ankitaghavate/Birthday-Reminder-App.git
+   
 ### To run the provided code successfully, you need to install the following Python packages:
 
 plyer: This is used for desktop notifications.
-pip install plyer
+  ```bash
+      pip install plyer
+```
 <br>
 pyttsx3: This is used for text-to-speech conversion.
 
