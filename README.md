@@ -14,9 +14,9 @@ To get started with the project, follow these steps:
   
 git clone https://github.com/Ankitaghavate/Birthday-Reminder-App.git
 
-To run the provided code successfully, you need to install the following Python packages:
+### To run the provided code successfully, you need to install the following Python packages:
 
-plyer: This is used for desktop notifications.
+plyer: This is used for desktop notifications.<br>
 pyttsx3: This is used for text-to-speech conversion.
 
 <h2>Contact</h2>
